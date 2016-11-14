@@ -1,4 +1,4 @@
-# PHPStorm-最好的PHP IDE
+# PHPStorm-最好用的PHP IDE
 
 ## WINDOWS
 
